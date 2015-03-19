@@ -1,2 +1,2 @@
 # Algorithms
-Implementation of classical algorithms based on design paradigms, as well solution to interesting problems.
+Implementation of classical algorithms based on design paradigms, as well solutions to interesting problems.
